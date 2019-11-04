@@ -1,0 +1,12 @@
+#cv{
+    font-family: "Times New Roman", Times, serif;
+    border-bottom: 2px solid black;
+    border-radius: 5px;
+    background-color: cornflowerblue; color: white; padding: 10px 0 10px 20px;
+    margin-right: 500px;
+}
+.add, .name, .phone, .email, .edu, .deg, .skill, .exp, .dev{
+    background-color: white;
+    color: black;
+    margin-right: 700px;
+}
